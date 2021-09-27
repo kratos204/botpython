@@ -1,2 +1,0 @@
-# botpython
-kratos
